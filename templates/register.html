@@ -1,0 +1,131 @@
+{% extends 'base.html' %}
+{% block head_script %}
+<link rel="stylesheet" href="../static/login.css">
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- Custom Theme files -->
+<link href="../static/login/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
+<link href="../static/login/css/snow.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../static/login/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="../static/bootstrap-3.3.7-dist/css/bootstrapValidator.css">
+<script type="text/javascript" src="../static/bootstrap-3.3.7-dist/js/bootstrapValidator.js"></script>
+<link rel="stylesheet" media="screen" href="../static/logreg/css/style.css">
+{% endblock %}
+{% block index %}
+        <div id="particles-js">
+    <div class="snow-container container">
+			  <div class="snow foreground"></div>
+			  <div class="snow foreground layered"></div>
+			  <div class="snow middleground"></div>
+			  <div class="snow middleground layered"></div>
+			  <div class="snow background"></div>
+			  <div class="snow background layered"></div>
+			</div>
+<div style="width: 100%;height: 80px"></div>
+<div class="main-agileits">
+<!--form-stars-here-->
+		<div class="form-w3-agile">
+			<h2 class="sub-agileits-w3layouts">注册</h2>
+                    <form id="defaultForm" method="post" action="/register">
+                        <div class="form-group">
+                            <input type="text"  name="username" class="shuru" placeholder="用户名"/>
+                        </div>
+
+                        <div class="form-group">
+                            <input type="password"  name="password" class="shuru" placeholder="密码"/>
+                        </div>
+
+                        <div class="form-group">
+                            <input type="password" name="confirmPassword" class="shuru" placeholder="密码"/>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="submit-w3l">
+					            <input type="submit" value="注册">
+                            </div>
+                            <div class="submit-w3l">
+					             <input type="reset" value="重置" id="resetBtn">
+                            </div>
+                        </div>
+
+                    </form>
+
+        </div>
+    </div>
+ </div>
+<script type="text/javascript">
+$(document).ready(function() {
+    // Generate a simple captcha
+    function randomNumber(min, max) {
+        return Math.floor(Math.random() * (max - min + 1) + min);
+    };
+    $('#captchaOperation').html([randomNumber(1, 100), '+', randomNumber(1, 200), '='].join(' '));
+
+    $('#defaultForm').bootstrapValidator({
+//        live: 'disabled',
+        message: '值不能为空',
+        feedbackIcons: {
+            valid: 'glyphicon glyphicon-ok',
+            invalid: 'glyphicon glyphicon-remove',
+            validating: 'glyphicon glyphicon-refresh'
+        },
+        fields: {
+            username: {
+                message: '用户名不能为空',
+                validators: {
+                    notEmpty: {
+                        message: '用户名为必填项'
+                    },
+                    stringLength: {
+                        min: 6,
+                        max: 30,
+                        message: '长度应该在6—30之间'
+                    },
+                    regexp: {
+                        regexp: /^[a-zA-Z0-9_]+$/,
+                        message: '用户名由字母、数字、下划线组成'
+                    },
+                }
+            },
+            password: {
+                validators: {
+                    notEmpty: {
+                        message: '密码为必填项'
+                    },
+                    different: {
+                        field: 'username',
+                        message: '用户名与密码不能相同'
+                    }
+                }
+            },
+            confirmPassword: {
+                validators: {
+                    notEmpty: {
+                        message: '此项为必填项'
+                    },
+                    identical: {
+                        field: 'password',
+                        message: '密码不一致'
+                    },
+                    different: {
+                        field: 'username',
+                        message: '用户名与密码不能相同'
+                    }
+                }
+            },
+
+        }
+    });
+
+    // Validate the form manually
+    $('#validateBtn').click(function() {
+        $('#defaultForm').bootstrapValidator('validate');
+    });
+
+    $('#resetBtn').click(function() {
+        $('#defaultForm').data('bootstrapValidator').resetForm(true);
+    });
+});
+</script>
+    <script src="../static/logreg/js/particles.min.js"></script>
+<script src="../static/logreg/js/app.js"></script>
+{% endblock %}

@@ -1,0 +1,13 @@
+{% extends 'main.html' %}
+{% block result %}
+      <form action="/spiderimg1" method="post" style="width: 500px;height: 300px;margin-top: 50px;margin-left: 100px;" onsubmit="javascript:return confirm('您确认要爬取吗，需要一小会儿的？');">
+            <div class="input-group">
+              <span class="input-group-addon" id="basic-addon1">关键字</span>
+              <input type="text" class="form-control" name="img" placeholder="请输入你想要的图片" aria-describedby="basic-addon1">
+            </div>
+            <div class="input-group">
+
+              <input type="submit" class="btn btn-primary" value="提交" style="margin-left:450px;margin-top: 20px;">
+            </div>
+      </form>
+{% endblock %}

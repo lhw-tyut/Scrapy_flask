@@ -1,0 +1,62 @@
+{% extends 'base.html' %}
+{% block head_script %}
+    <link rel="stylesheet" href="../static/style.css">
+    {% block main_script %}{% endblock %}
+{% endblock %}
+{% block nav_main %}active{% endblock %}
+{% block main %}
+<div class="container">
+    <div class="row">
+        <div class="col-xs-3 col-sm-3 col-lg-2">
+            <div class="panel panel-default">
+			    <div class="panel-heading">电影评论采集</div>
+			    <div class="panel-body">
+			        <p style="border-bottom: 1px solid #c0c0c0;"><a href="/spidercomment" onclick="javascript:return confirm('您确定要爬取吗？做好准备噢');">评论采集</a></p>
+                     <p style="border-bottom: 1px solid #c0c0c0;"><a href="/spidercomment1">评论展示</a></p>
+			        <p style="border-bottom: 1px solid #c0c0c0;"><a href="/spiderresult" target="_self">评论分析</a></p>
+                    <p style="border-bottom: 1px solid #c0c0c0;"><a href="/spiderresultrate" target="_self">星级分析</a></p>
+			    </div>
+            </div>
+            <div class="panel panel-default">
+			    <div class="panel-heading">图片采集</div>
+			    <div class="panel-body">
+			        <p style="border-bottom: 1px solid #c0c0c0;"><a href="/inputkey">图片采集</a></p>
+
+			        <p style="border-bottom: 1px solid #c0c0c0;"><a href="/photoshow">图片展示</a></p>
+			    </div>
+            </div>
+            <div class="panel panel-default">
+			    <div class="panel-heading">招聘信息采集</div>
+			    <div class="panel-body">
+                      <p style="border-bottom: 1px solid #c0c0c0;"><a href="/spiderqc1" onclick="javascript:return confirm('您确定要爬取吗？做好准备噢');">无忧采集</a></p>
+                    <p style="border-bottom: 1px solid #c0c0c0;"><a href="/spiderqc2" onclick="javascript:return confirm('您确定要爬取吗？做好准备噢');">猎聘采集</a></p>
+			        <p style="border-bottom: 1px solid #c0c0c0;"><a href="/spiderqc">前程无忧</a></p>
+			        <p style="border-bottom: 1px solid #c0c0c0;"><a href="/spiderliepin">猎聘</a></p>
+			    </div>
+            </div>
+            <div class="panel panel-default">
+			    <div class="panel-heading">查询</div>
+			    <div class="panel-body">
+			        <form action="/searchjob" method="post" >
+            <div class="input-group">
+              <input type="text" class="form-control" name="jobPosition" placeholder="请输入你想要的公司" aria-describedby="basic-addon1">
+            </div>
+            <div class="input-group">
+              <input type="submit" class="btn btn-primary" value="提交">
+            </div>
+      </form>
+			    </div>
+            </div>
+        </div>
+        <div class="col-xs-9 col-sm-9 col-lg-10 result">
+           <div class="panel panel-default">
+			    <div class="panel-heading">结果</div>
+
+			        {% block result %}{% endblock %}
+
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

@@ -1,0 +1,124 @@
+{% extends 'main.html' %}
+{% block main_script %}
+	<style>
+		*{
+			margin:0;
+			padding:0;
+		}
+		html,body{
+			height:100%;
+		}
+		.wrap{
+            margin-top: 10px;
+			width:950px;
+			height:600px;
+			border:0px ;
+			left:5%;
+			top:5%;
+			position:absolute;
+		}
+		.wrap div{
+			width:120px;
+			height:120px;
+			position:absolute;
+			box-shadow:0px 0px 20px #b9def0;
+			cursor:pointer;
+			transition:1s
+		}
+	</style>
+
+{% endblock %}
+{% block nav_main %}active{% endblock %}
+{% block result %}
+	<div class="wrap small"></div>
+	<script type="text/javascript" src="../static/js/jquery-1.12.2.min.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			initImg();
+			initPosition();
+
+
+			$(".wrap>div").click(function(){
+				if($(".wrap").hasClass("small")){
+					$(".wrap").removeClass("small").addClass("big");
+					var image=$(this).css("backgroundImage");
+					$(".wrap>div").each(function(index,element){
+						// 计算行索引
+						var rowIndex=parseInt(index/6);
+						// 计算列索引
+						var colIndex=index%6;
+						// 计算大图距左距离
+						var _left=($(".wrap").width()-6*120)/2;
+						// 计算大图距顶的距离
+						var _top=($(".wrap").height()-4*120)/2;
+
+						$(element).css({
+							"backgroundImage":image,
+							"transform":"scale(1)",
+							"box-shadow":"0 0 0 0",
+							"background-size":"",
+							"background-position":"-"+(colIndex*120)+"px -"+rowIndex*120+"px"
+						});
+						setTimeout(function(){
+							$(element).css({
+								"left":(_left+colIndex*120)+"px",
+								"top":(_top+rowIndex*120)+"px"
+							});
+						},1000);
+					});
+				}else{
+					$(".wrap").removeClass("big").addClass("small");
+					$(".wrap>div").each(function(index,element){
+						var _deg=Math.random()*30-15;
+						$(element).css({
+							"background":"url('../static/img/"+(index+1)+".jpg')",
+							"background-size":"120px 120px",
+							"transform":"scale(0.9) rotate("+_deg+"deg)"
+						});
+					});
+					initPosition();
+				}
+			});
+
+
+			function initPosition(){
+				// 计算 每一列的 空隙
+				var colspan=($(".wrap").width()-120*6)/5;
+				// 计算 每一行的 空隙
+				var rowspan=($(".wrap").height()-120*4)/3;
+				$(".wrap>div").each(function(index,element){
+					// 计算行索引
+					var rowIndex=parseInt(index/6);
+					// 计算列索引
+					var colIndex=index%6;
+					// 计算图片距左的距离  列索引*(图片宽度+列缝隙)
+					var _left=colIndex*(120+colspan);
+					// 计算图片距顶的距离   行索引*(图片的高度+行缝隙)
+					var _top=rowIndex*(120+rowspan);
+					// 设置元素的样式
+					$(element).css({
+						"top":_top+"px",
+						"left":_left+"px"
+					});
+				});
+			}
+
+			function initImg(){
+				for(var i=1;i<=24;i++){
+					//创建div 对象
+					var $img= $("<div></div>");
+					// + - 15度 旋转
+					var _deg=Math.random()*30-15
+
+					// 计算图片
+					$img.css({
+						"background":"url('../static/img/"+i+".jpg')",
+						"background-size":"120px 120px",
+						"transform":"scale(0.9) rotate("+_deg+"deg)"
+					});
+					$(".wrap").append($img);
+				}
+			}
+		});
+	</script>
+{% endblock %}

@@ -1,0 +1,869 @@
+2018-09-25 18:55:00,075 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('实施工程师（python）','达观数据','北京','1.2-2.4万/月','09-25');  
+2018-09-25 18:55:00,182 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python/Go运维软件工程师','苏州博远容天信息科技股份有限公司','北京-海淀区','0.5-1.5万/月','09-25');  
+2018-09-25 18:55:00,214 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师（产品研发）','北京东方金信科技有限公司','北京-东城区','0.8-1.5万/月','09-25');  
+2018-09-25 18:55:00,257 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师/讲师','北京北财教育科技有限责任公司','北京-大兴区','1.5-3万/月','09-25');  
+2018-09-25 18:55:00,303 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python实习-机器学习方向','寰宇优才教育科技（北京）有限公司','北京-朝阳区','0.8-1万/月','09-25');  
+2018-09-25 18:55:00,345 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python工程师（物联网方向）','北京经世万方信息技术有限公司','北京-朝阳区','0.6-1万/月','09-25');  
+2018-09-25 18:55:00,382 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python工程师','安徽七天教育科技有限公司','北京-昌平区','2.5-3万/月','09-25');  
+2018-09-25 18:55:00,421 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python(RPA)实施开发工程师（软件）','上海艺赛旗软件股份有限公司','北京','6-8千/月','09-25');  
+2018-09-25 18:55:00,458 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python项目经理','北京八维研修学院','北京-海淀区','1.5-2.5万/月','09-25');  
+2018-09-25 18:55:00,499 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python数据分析师','北京卓思天成数据咨询股份有限公司','北京-朝阳区','1.5-2.5万/月','09-25');  
+2018-09-25 18:55:00,535 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','景星网络科技（北京）有限公司','北京','0.8-1.8万/月','09-25');  
+2018-09-25 18:55:00,568 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python高级开发工程师','北京棣南新宇科技有限公司','北京-海淀区','1.5-2万/月','09-25');  
+2018-09-25 18:55:00,606 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('数据处理（懂python）','文思海辉技术有限公司Pactera Tec...','北京','1-1.5万/月','09-25');  
+2018-09-25 18:55:00,656 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('LinuxC++/Python研发工程师','北京好巧国际旅行社有限公司','北京-朝阳区','2-3.5万/月','09-25');  
+2018-09-25 18:55:00,700 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('后端架构师（Python/Go）','御见思惟（北京）信息科技有限公司','北京-朝阳区','1.5-2万/月','09-25');  
+2018-09-25 18:55:00,758 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('高级Linux工程师（c/c++ 、php、python）','北京安德信业信息咨询有限责任公司','北京','30-55万/年','09-25');  
+2018-09-25 18:55:00,795 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','慧影医疗科技（北京）有限公司','北京-海淀区','1.5-2万/月','09-25');  
+2018-09-25 18:55:00,843 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python高级研发工程师','北京风行在线技术有限公司','北京-海淀区','1.8-2.5万/月','09-25');  
+2018-09-25 18:55:00,886 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python高级开发工程师','叠云（北京）科技股份有限公司','北京','1.2-1.5万/月','09-25');  
+2018-09-25 18:55:00,918 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('ETL工程师/Python工程师','北京融英乐知科技有限公司','北京-西城区','1.5-1.9万/月','09-25');  
+2018-09-25 18:55:00,952 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python全栈开发','北京中科基因技术有限公司','北京-海淀区','0.7-1.2万/月','09-25');  
+2018-09-25 18:55:00,984 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师(面向2018届毕业生)','江森自控（中国）投资有限公司','北京','0.8-1万/月','09-25');  
+2018-09-25 18:55:01,023 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python工程师','北京慕华信息科技有限公司','北京','1.5-3万/月','09-25');  
+2018-09-25 18:55:01,068 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python区块链工程师','北京布路诺超链科技有限公司','北京-海淀区','1-3万/月','09-25');  
+2018-09-25 18:55:01,101 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python工程师','北京睿科伦智能科技有限公司','北京-海淀区','1.6-2.3万/月','09-25');  
+2018-09-25 18:55:01,130 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python爬虫师工程师','北京丰源星际传媒科技有限公司','北京-西城区','1-1.5万/月','09-25');  
+2018-09-25 18:55:01,159 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python讲师（爬虫/机器学习方向） (MJ005247)','北京童程童美科技有限公司','北京-东城区','2.5-3.5万/月','09-25');  
+2018-09-25 18:55:01,186 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python后台开发工程师+弹性时间+集团公司','北京艾的教育科技股份有限公司','北京-西城区','1.5-2万/月','09-25');  
+2018-09-25 18:55:01,214 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','广州嘉为科技有限公司','北京-海淀区','0.6-1.5万/月','09-25');  
+2018-09-25 18:55:01,248 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python开发工程师（机器学习）','博彦科技股份有限公司','北京-海淀区','1.2-1.5万/月','09-25');  
+2018-09-25 18:55:01,275 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python爬虫工程师','北京法宣在线科技有限公司','北京-海淀区','1.5-2万/月','09-25');  
+2018-09-25 18:55:01,303 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京艾沃仕科技有限公司','北京-东城区','1-1.5万/月','09-25');  
+2018-09-25 18:55:01,329 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','狐狸金服（北京）信息技术咨询有限...','北京-海淀区','1.5-2.5万/月','09-25');  
+2018-09-25 18:55:01,360 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京蓝汛通信技术有限责任公司','北京-朝阳区','1.5-2万/月','09-25');  
+2018-09-25 18:55:01,384 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','苏州闻道网络科技股份有限公司','北京-丰台区','1.3-2万/月','09-25');  
+2018-09-25 18:55:01,413 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python编程老师','上海傲梦网络科技有限公司','异地招聘','0.8-1万/月','09-25');  
+2018-09-25 18:55:01,441 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python研发工程师','上海诚信互通网络信息科技有限公司','北京-海淀区','2-3万/月','09-25');  
+2018-09-25 18:55:01,468 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Software Engineer  Python, Java, Cloud','贵州华芯通半导体技术有限公司','北京','1.5-2万/月','09-25');  
+2018-09-25 18:55:01,507 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python/Golang/Linux C/中高级研发工程师','北京傲盾软件有限责任公司','北京-海淀区','0.6-1.2万/月','09-25');  
+2018-09-25 18:55:01,534 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python讲师','北京中软国际教育科技股份有限公司','北京-昌平区','2-3万/月','09-25');  
+2018-09-25 18:55:01,561 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python工程师','北京高思博乐教育科技股份有限公司','北京-海淀区','1-1.5万/月','09-25');  
+2018-09-25 18:55:01,590 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python工程师','清华大学微电子学研究所','北京-海淀区','1.5-2.5万/月','09-25');  
+2018-09-25 18:55:01,628 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python开发工程师','北京天行网安信息技术有限责任公司','北京-海淀区','1-1.5万/月','09-25');  
+2018-09-25 18:55:01,663 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('北京-Python人工智能讲师','珠海世纪鼎利科技股份有限公司','北京-海淀区','2-2.5万/月','09-25');  
+2018-09-25 18:55:01,700 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python软件工程师','北京四中网校','北京','1.5-3万/月','09-25');  
+2018-09-25 18:55:01,737 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python系统运维开发工程师','云星数据（深圳）有限公司','北京-朝阳区','2-3万/月','09-25');  
+2018-09-25 18:55:01,780 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京初志科技有限公司','北京-海淀区','1-3.2万/月','09-25');  
+2018-09-25 18:56:53,619 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('实施工程师（python）','达观数据','北京','1.2-2.4万/月','09-25');  
+2018-09-25 18:56:53,704 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python/Go运维软件工程师','苏州博远容天信息科技股份有限公司','北京-海淀区','0.5-1.5万/月','09-25');  
+2018-09-25 18:56:53,773 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师（产品研发）','北京东方金信科技有限公司','北京-东城区','0.8-1.5万/月','09-25');  
+2018-09-25 18:56:53,809 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师/讲师','北京北财教育科技有限责任公司','北京-大兴区','1.5-3万/月','09-25');  
+2018-09-25 18:56:53,856 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python实习-机器学习方向','寰宇优才教育科技（北京）有限公司','北京-朝阳区','0.8-1万/月','09-25');  
+2018-09-25 18:56:53,906 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python工程师（物联网方向）','北京经世万方信息技术有限公司','北京-朝阳区','0.6-1万/月','09-25');  
+2018-09-25 18:56:53,946 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python工程师','安徽七天教育科技有限公司','北京-昌平区','2.5-3万/月','09-25');  
+2018-09-25 18:56:53,976 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python(RPA)实施开发工程师（软件）','上海艺赛旗软件股份有限公司','北京','6-8千/月','09-25');  
+2018-09-25 18:56:54,014 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python项目经理','北京八维研修学院','北京-海淀区','1.5-2.5万/月','09-25');  
+2018-09-25 18:56:54,052 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python数据分析师','北京卓思天成数据咨询股份有限公司','北京-朝阳区','1.5-2.5万/月','09-25');  
+2018-09-25 18:56:54,091 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','景星网络科技（北京）有限公司','北京','0.8-1.8万/月','09-25');  
+2018-09-25 18:56:54,120 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python高级开发工程师','北京棣南新宇科技有限公司','北京-海淀区','1.5-2万/月','09-25');  
+2018-09-25 18:56:54,160 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('数据处理（懂python）','文思海辉技术有限公司Pactera Tec...','北京','1-1.5万/月','09-25');  
+2018-09-25 18:56:54,185 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('LinuxC++/Python研发工程师','北京好巧国际旅行社有限公司','北京-朝阳区','2-3.5万/月','09-25');  
+2018-09-25 18:56:54,216 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('后端架构师（Python/Go）','御见思惟（北京）信息科技有限公司','北京-朝阳区','1.5-2万/月','09-25');  
+2018-09-25 18:56:54,265 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('高级Linux工程师（c/c++ 、php、python）','北京安德信业信息咨询有限责任公司','北京','30-55万/年','09-25');  
+2018-09-25 18:56:54,301 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','慧影医疗科技（北京）有限公司','北京-海淀区','1.5-2万/月','09-25');  
+2018-09-25 18:56:54,331 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python高级研发工程师','北京风行在线技术有限公司','北京-海淀区','1.8-2.5万/月','09-25');  
+2018-09-25 18:56:54,359 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python高级开发工程师','叠云（北京）科技股份有限公司','北京','1.2-1.5万/月','09-25');  
+2018-09-25 18:56:54,384 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('ETL工程师/Python工程师','北京融英乐知科技有限公司','北京-西城区','1.5-1.9万/月','09-25');  
+2018-09-25 18:56:54,414 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python全栈开发','北京中科基因技术有限公司','北京-海淀区','0.7-1.2万/月','09-25');  
+2018-09-25 18:56:54,439 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师(面向2018届毕业生)','江森自控（中国）投资有限公司','北京','0.8-1万/月','09-25');  
+2018-09-25 18:56:54,470 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python工程师','北京慕华信息科技有限公司','北京','1.5-3万/月','09-25');  
+2018-09-25 18:56:54,496 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python区块链工程师','北京布路诺超链科技有限公司','北京-海淀区','1-3万/月','09-25');  
+2018-09-25 18:56:54,537 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python工程师','北京睿科伦智能科技有限公司','北京-海淀区','1.6-2.3万/月','09-25');  
+2018-09-25 18:56:54,573 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python爬虫师工程师','北京丰源星际传媒科技有限公司','北京-西城区','1-1.5万/月','09-25');  
+2018-09-25 18:56:54,601 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python讲师（爬虫/机器学习方向） (MJ005247)','北京童程童美科技有限公司','北京-东城区','2.5-3.5万/月','09-25');  
+2018-09-25 18:56:54,629 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python后台开发工程师+弹性时间+集团公司','北京艾的教育科技股份有限公司','北京-西城区','1.5-2万/月','09-25');  
+2018-09-25 18:56:54,657 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','广州嘉为科技有限公司','北京-海淀区','0.6-1.5万/月','09-25');  
+2018-09-25 18:56:54,685 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python开发工程师（机器学习）','博彦科技股份有限公司','北京-海淀区','1.2-1.5万/月','09-25');  
+2018-09-25 18:56:54,714 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python爬虫工程师','北京法宣在线科技有限公司','北京-海淀区','1.5-2万/月','09-25');  
+2018-09-25 18:56:54,739 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京艾沃仕科技有限公司','北京-东城区','1-1.5万/月','09-25');  
+2018-09-25 18:56:54,768 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','狐狸金服（北京）信息技术咨询有限...','北京-海淀区','1.5-2.5万/月','09-25');  
+2018-09-25 18:56:54,796 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京蓝汛通信技术有限责任公司','北京-朝阳区','1.5-2万/月','09-25');  
+2018-09-25 18:56:54,823 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','苏州闻道网络科技股份有限公司','北京-丰台区','1.3-2万/月','09-25');  
+2018-09-25 18:56:54,854 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python编程老师','上海傲梦网络科技有限公司','异地招聘','0.8-1万/月','09-25');  
+2018-09-25 18:56:54,888 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python研发工程师','上海诚信互通网络信息科技有限公司','北京-海淀区','2-3万/月','09-25');  
+2018-09-25 18:56:54,921 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Software Engineer  Python, Java, Cloud','贵州华芯通半导体技术有限公司','北京','1.5-2万/月','09-25');  
+2018-09-25 18:56:54,951 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python/Golang/Linux C/中高级研发工程师','北京傲盾软件有限责任公司','北京-海淀区','0.6-1.2万/月','09-25');  
+2018-09-25 18:56:54,980 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python讲师','北京中软国际教育科技股份有限公司','北京-昌平区','2-3万/月','09-25');  
+2018-09-25 18:56:55,005 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python工程师','北京高思博乐教育科技股份有限公司','北京-海淀区','1-1.5万/月','09-25');  
+2018-09-25 18:56:55,047 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python工程师','清华大学微电子学研究所','北京-海淀区','1.5-2.5万/月','09-25');  
+2018-09-25 18:56:55,091 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python开发工程师','北京天行网安信息技术有限责任公司','北京-海淀区','1-1.5万/月','09-25');  
+2018-09-25 18:56:55,125 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('北京-Python人工智能讲师','珠海世纪鼎利科技股份有限公司','北京-海淀区','2-2.5万/月','09-25');  
+2018-09-25 18:56:55,158 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python软件工程师','北京四中网校','北京','1.5-3万/月','09-25');  
+2018-09-25 18:56:55,204 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python系统运维开发工程师','云星数据（深圳）有限公司','北京-朝阳区','2-3万/月','09-25');  
+2018-09-25 18:56:55,296 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京初志科技有限公司','北京-海淀区','1-3.2万/月','09-25');  
+2018-09-25 18:57:01,264 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python 后台开发工程师','北京推题科技有限公司','北京-海淀区','1-1.6万/月','09-25');  
+2018-09-25 18:57:01,307 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python后端研发工程师','北京江民新科技术有限公司','北京-海淀区','1-2万/月','09-25');  
+2018-09-25 18:57:01,356 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Java/Python高级工程师','银河互联网电视有限公司','北京-丰台区','1.5-2.5万/月','09-25');  
+2018-09-25 18:57:01,399 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('中信证券python开发(外派岗位）','Symbio','北京-海淀区','1.5-2万/月','09-25');  
+2018-09-25 18:57:01,447 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','上海犇众信息技术有限公司','北京-海淀区','1-1.5万/月','09-25');  
+2018-09-25 18:57:01,495 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('算法工程师（Java/Scala/Python/R方向）','北京中能博泰科技有限公司','北京-海淀区','1.5-3万/月','09-25');  
+2018-09-25 18:57:01,543 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('全栈python开发工程师','北京道冲泰科科技有限公司','北京-朝阳区','15-20万/年','09-25');  
+2018-09-25 18:57:01,570 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京朗镜科技有限责任公司','北京-朝阳区','2-2.5万/月','09-25');  
+2018-09-25 18:57:01,601 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京攸乐科技有限公司','北京','1-1.5万/月','09-25');  
+2018-09-25 18:57:01,633 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','深圳市金证科技股份有限公司','北京','1-1.5万/月','09-25');  
+2018-09-25 18:57:01,670 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python软件工程师','上海高重信息科技有限公司','北京-海淀区','1-2万/月','09-25');  
+2018-09-25 18:57:01,705 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','普天信息技术有限公司','北京','0.8-1.5万/月','09-25');  
+2018-09-25 18:57:01,739 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('高级Python开发工程师','北京国双科技有限公司','北京','1.5-2万/月','09-25');  
+2018-09-25 18:57:01,771 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','中国广视索福瑞媒介研究有限责任公司','北京-朝阳区','1.5-2万/月','09-25');  
+2018-09-25 18:57:01,805 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python(外派中国移动)','南京绛门信息科技股份有限公司','北京-朝阳区','0.8-1.6万/月','09-25');  
+2018-09-25 18:57:01,839 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python后端开发工程师','拓天伟业（北京）金融信息服务有限...','北京-丰台区','1.5-2万/月','09-25');  
+2018-09-25 18:57:01,873 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python工程师','北京联龙博通电子商务技术有限公司','北京-丰台区','1-1.5万/月','09-25');  
+2018-09-25 18:57:01,903 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python爬虫工程师','杭州锐致商务咨询有限公司','北京-朝阳区','1.5-2万/月','09-25');  
+2018-09-25 18:57:01,944 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python就业指导老师(J10736)','北京传智播客教育科技有限公司','北京-顺义区','1-1.5万/月','09-25');  
+2018-09-25 18:57:01,980 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python  就业指导(J10734)','传智播客教育集团顺义校区','北京-顺义区','0.8-1万/月','09-25');  
+2018-09-25 18:57:02,008 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python助教','传智播客教育集团修正分校','北京-昌平区','10-15万/年','09-25');  
+2018-09-25 18:57:02,069 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python全栈开发工程师','大唐奇安网络科技有限公司','北京-朝阳区','1-2万/月','09-25');  
+2018-09-25 18:57:02,112 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('中高级Python开发工程师','北京中创信测科技股份有限公司','北京-海淀区','1.2-2万/月','09-25');  
+2018-09-25 18:57:02,141 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京斯普信信息技术有限公司','北京','1-1.5万/月','09-25');  
+2018-09-25 18:57:02,170 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python讲师','北京智联友道科技有限公司','北京-海淀区','1.5-2万/月','09-25');  
+2018-09-25 18:57:02,197 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京直真科技股份有限公司','北京-朝阳区','2-2.5万/月','09-25');  
+2018-09-25 18:57:02,222 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python工程师','中讯志远（武汉）科技有限公司','北京-朝阳区','1-1.5万/月','09-25');  
+2018-09-25 18:57:02,252 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python开发工程师','武汉有戏网络科技有限公司','北京','1.5-2万/月','09-25');  
+2018-09-25 18:57:02,280 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python开发工程师','杭州迪普科技股份有限公司','北京-海淀区','10-20万/年','09-25');  
+2018-09-25 18:57:02,307 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python爬虫开发工程师','北京敏捷艾科数据技术有限公司','北京-朝阳区','0.6-1万/月','09-25');  
+2018-09-25 18:57:02,334 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师4775','普信恒业科技发展（北京）有限公司','北京','2.5-3万/月','09-25');  
+2018-09-25 18:57:02,362 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('JAVA/Python开发工程师(3691)','完美世界（北京）总部/完美时空','北京','1.5-2万/月','09-25');  
+2018-09-25 18:57:02,388 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师-Python Development Engineer','绫致时装（天津）有限公司','北京-朝阳区','1.5-2.5万/月','09-25');  
+2018-09-25 18:57:02,417 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('高级/首席软件测试工程师-Python/Ruby/C/Perl/Shell','戴尔（中国）有限公司','北京','30-40万/年','09-25');  
+2018-09-25 18:57:02,448 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发','亚信科技（中国）有限公司','北京-海淀区','1-2万/月','09-25');  
+2018-09-25 18:57:02,486 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python运维 助教/讲师','北京薪享宏福教育咨询有限公司','北京-昌平区','2-3万/月','09-24');  
+2018-09-25 18:57:02,520 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python工程师','深圳多诺信息科技有限公司','北京-海淀区','1.5-2.5万/月','09-24');  
+2018-09-25 18:57:02,556 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python/go开发','上海秀可得企业管理咨询有限公司','北京-朝阳区','2-4.5万/月','09-23');  
+2018-09-25 18:57:02,596 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','上海酷萌网络科技有限公司','北京','1-1.5万/月','09-23');  
+2018-09-25 18:57:02,627 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京蓝卡科技股份有限公司','北京-海淀区','1-2万/月','09-23');  
+2018-09-25 18:57:02,654 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师(J11761)','便利蜂','北京','1-1.5万/月','09-23');  
+2018-09-25 18:57:02,683 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京娜迦信息科技发展有限公司','北京-海淀区','1-2万/月','09-23');  
+2018-09-25 18:57:02,709 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python算法工程师','深圳前海川谷信息技术有限公司','北京-朝阳区','1.5-2万/月','09-22');  
+2018-09-25 18:57:02,738 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京友仁邦信息科技有限公司','北京-朝阳区','3-5万/月','09-22');  
+2018-09-25 18:57:02,766 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python爬虫工程师','银谷普惠信息咨询（北京）有限公司','北京-朝阳区','1-2万/月','09-22');  
+2018-09-25 18:57:02,793 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python高级开发工程师','北京博学慎思教育科技有限公司','北京-昌平区','2-4万/月','09-21');  
+2018-09-25 18:57:02,820 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python后端开发工程师','北京多来点信息技术有限公司','北京-西城区','1.5-2.5万/月','09-21');  
+2018-09-25 18:57:07,203 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python后端开发工程师','中经网数据有限公司','北京-西城区','1-3万/月','09-21');  
+2018-09-25 18:57:07,257 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京健易保科技有限公司','北京-海淀区','1.5-2万/月','09-21');  
+2018-09-25 18:57:07,306 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京天融信科技有限公司','北京','1-1.5万/月','09-21');  
+2018-09-25 18:57:07,361 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','奔讯电子科技（北京）有限公司','北京-朝阳区','0.8-1.5万/月','09-21');  
+2018-09-25 18:57:07,408 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('云方向业务部门_Python开发工程师','北京思特奇信息技术股份有限公司','北京-海淀区','1-1.5万/月','09-21');  
+2018-09-25 18:57:07,457 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','易视腾科技股份有限公司','北京','1-2万/月','09-21');  
+2018-09-25 18:57:07,508 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('后台开发工程师（Python/C++）','上海清鹤科技股份有限公司','北京-昌平区','1.2-2万/月','09-21');  
+2018-09-25 18:57:07,550 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python开发工程师(NO.集成1821)','北京南天软件有限公司','北京','0.7-1.3万/月','09-21');  
+2018-09-25 18:57:07,621 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python 工程师 （爬虫方向）','北京神州新桥科技有限公司','北京-海淀区','1-1.5万/月','09-21');  
+2018-09-25 18:57:07,695 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python讲师','北京书和翰林教育科技有限公司','北京-延庆区','0.8-2万/月','09-21');  
+2018-09-25 18:57:07,750 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python中高级开发工程师','新浪微博','北京','2-3.5万/月','09-21');  
+2018-09-25 18:57:07,791 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python Engineer','北京乐至道科技有限公司','北京-海淀区','1.8-3.5万/月','09-21');  
+2018-09-25 18:57:07,908 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('18数字化-Python工程师(J14182)','金风科技-研发中心','北京','1.8-3.2万/月','09-21');  
+2018-09-25 18:57:08,006 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京慧博融信科技有限公司','北京-海淀区','1.4-2.5万/月','09-20');  
+2018-09-25 18:57:08,079 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京紫光得瑞科技有限公司','北京-昌平区','1.2-2.4万/月','09-20');  
+2018-09-25 18:57:08,246 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('技术支持工程师（Python软件运维）','北京普瑞亿科科技有限公司','北京-海淀区','6-8千/月','09-20');  
+2018-09-25 18:57:08,286 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京缔联科技有限公司','北京-海淀区','1-1.5万/月','09-20');  
+2018-09-25 18:57:08,311 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python web 开发工程师','中国电子科技集团公司第十五研究所...','北京-海淀区','0.8-1万/月','09-19');  
+2018-09-25 18:57:08,340 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python工程师','北京联斯达医药科技发展有限公司','北京','2-3万/月','09-19');  
+2018-09-25 18:57:08,365 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('医学研发中心--Python研发工程师','北京诺禾致源科技股份有限公司','北京-朝阳区','1-1.5万/月','09-19');  
+2018-09-25 18:57:08,395 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('中级程序员（Python）','北京麦圃国际咨询顾问有限公司','北京-朝阳区','0.8-1.3万/月','09-19');  
+2018-09-25 18:57:08,421 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python高级软件工程师','北京优诺信创科技有限公司','北京-海淀区','0.8-1.5万/月','09-19');  
+2018-09-25 18:57:08,455 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python工程师','国和瑞斯（北京）科技有限公司','北京-海淀区','1-1.5万/月','09-19');  
+2018-09-25 18:57:08,487 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京雪迪龙科技股份有限公司','北京','1-2万/月','09-19');  
+2018-09-25 18:57:08,530 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python 研发工程师','长安通信科技有限责任公司','北京-朝阳区','1-1.5万/月','09-18');  
+2018-09-25 18:57:08,562 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','SYNNEX China','北京','1-3万/月','09-18');  
+2018-09-25 18:57:08,588 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('高级python开发工程师','北京中体骏彩信息技术有限公司','北京-朝阳区','1.5-2万/月','09-18');  
+2018-09-25 18:57:08,617 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('爬虫工程师（Python）','北京汉能光伏投资有限公司','北京-朝阳区','1.5-2.5万/月','09-18');  
+2018-09-25 18:57:08,643 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python 开发工程师','北京华云星地通科技有限公司','北京-海淀区','0.8-1.5万/月','09-18');  
+2018-09-25 18:57:08,674 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('开发工程师（Python/Perl）','北京晨宇泰安科技有限公司','北京-海淀区','1-1.5万/月','09-17');  
+2018-09-25 18:57:08,734 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京第三石信息技术有限公司','北京-朝阳区','1.5-3万/月','09-17');  
+2018-09-25 18:57:08,766 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python 数据分析/人工智能讲师','北京网络职业学院','北京-房山区','1.8-2.5万/月','09-17');  
+2018-09-25 18:57:08,795 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python培训讲师','北京中公教育科技股份有限公司','北京','1-2万/月','09-17');  
+2018-09-25 18:57:08,820 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('高级Python工程师','汇中泰德投资有限公司','北京','2.5-4万/月','09-17');  
+2018-09-25 18:57:08,850 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('云平台开发工程师（JAVA、Python）','航天星图科技（北京）有限公司','北京-顺义区','1.5-3万/月','09-17');  
+2018-09-25 18:57:08,876 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python算法平台开发经理','北京英视睿达科技有限公司','北京-西城区','1-2万/月','09-16');  
+2018-09-25 18:57:08,911 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发(AI)-北京-04253','博彦科技股份有限公司','北京','0.8-1.7万/月','09-16');  
+2018-09-25 18:57:08,947 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师-北京','北京华晨阳通信技术有限责任公司','北京-海淀区','0.8-1万/月','09-15');  
+2018-09-25 18:57:08,980 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','上海微创软件股份有限公司','北京','0.8-1万/月','09-14');  
+2018-09-25 18:57:09,014 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python工程师','新华书店总店','北京-西城区','0.7-1.4万/月','09-14');  
+2018-09-25 18:57:09,044 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('直聘软件开发Golang /Python','某外资上市人力资源公司','北京-朝阳区','1.5-2万/月','09-14');  
+2018-09-25 18:57:09,078 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('高级Python开发工程师（网安）-北京','任子行网络技术股份有限公司','北京-海淀区','1.5-2.5万/月','09-14');  
+2018-09-25 18:57:09,119 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python/Golang 工程师','图玛深维医疗科技（北京）有限公司','北京-朝阳区','1.5-2.5万/月','09-13');  
+2018-09-25 18:57:09,153 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python运维工程师','北京新东方教育科技（集团）有限公司','北京-海淀区','1.8-2.5万/月','09-13');  
+2018-09-25 18:57:09,211 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('高级 python 研发工程师','北京大黄猫知识产权服务有限公司','北京','3-4万/月','09-13');  
+2018-09-25 18:57:09,265 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python软件工程师','北京经纬恒润科技有限公司','北京-海淀区','1-1.5万/月','09-12');  
+2018-09-25 18:57:09,304 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','联动优势科技有限公司','北京-海淀区','1.3-1.5万/月','09-12');  
+2018-09-25 18:57:13,612 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python开发','北京知了点点教育科技有限公司','北京-海淀区','1.5-2.3万/月','09-12');  
+2018-09-25 18:57:13,658 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','思百达物联网科技（北京）有限公司','北京-朝阳区','1-2万/月','09-12');  
+2018-09-25 18:57:13,702 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python开发（Python/golang/java、Bash）','人人行（借贷宝）','北京-朝阳区','1.5-2.5万/月','09-11');  
+2018-09-25 18:57:13,830 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('云迁移平台Python开发工程师','博飞信息科技(上海)有限公司','北京-朝阳区','1-3万/月','09-11');  
+2018-09-25 18:57:13,910 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师-小米电视','北京小米电子产品有限公司','北京-海淀区','1.5-2.5万/月','09-10');  
+2018-09-25 18:57:13,944 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','中科博宏（北京）科技有限公司','北京-朝阳区','1.5-3万/月','09-10');  
+2018-09-25 18:57:13,974 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python高级开发工程师','北京微云智联科技有限公司','北京-海淀区','1.5-2万/月','09-07');  
+2018-09-25 18:57:14,000 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','京北方信息技术股份有限公司','北京','0.9-1.2万/月','09-07');  
+2018-09-25 18:57:14,030 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师-苏州智慧','中科九度（北京）空间信息技术有限...','异地招聘','1.5-2.5万/月','09-07');  
+2018-09-25 18:57:14,065 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python高级开发工程师','北京量子保科技有限公司','北京-海淀区','2.5-3万/月','09-06');  
+2018-09-25 18:57:14,096 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师（XT1xhy）','北京东方国信科技股份有限公司','北京','1.5-2万/月','09-05');  
+2018-09-25 18:57:14,124 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','中金智汇科技有限责任公司','北京-大兴区','1.5-3万/月','09-04');  
+2018-09-25 18:57:14,153 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','融信在线（北京）教育科技有限公司','北京-丰台区','0.8-2万/月','09-03');  
+2018-09-25 18:57:14,178 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python 产品设计师','北京乐可威信息技术有限公司','北京-海淀区','1.5-2万/月','09-03');  
+2018-09-25 18:57:14,207 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python数据处理工程师','北京视野金融信息服务有限公司','北京-海淀区','2-2.5万/月','09-02');  
+2018-09-25 18:57:14,234 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京招通致晟科技有限公司','北京','1-1.5万/月','08-30');  
+2018-09-25 18:57:14,262 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京风行盛世文化传播有限公司','北京','1-1.5万/月','08-30');  
+2018-09-25 18:57:14,289 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python高级开发人员','南京华苏科技有限公司','北京','1-1.5万/月','08-30');  
+2018-09-25 18:57:14,318 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python','北京红果科技有限公司','北京-朝阳区','15-20万/年','08-29');  
+2018-09-25 18:57:14,344 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师(1837)','北京大米未来科技有限公司','北京','1.5-2万/月','08-28');  
+2018-09-25 18:57:14,374 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('软件开发工程师（Python）','北京工业大数据创新中心有限公司','北京-海淀区','1.5-3万/月','08-28');  
+2018-09-25 18:57:14,398 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('游戏服务器(Python)开发工程师','北京盖娅互娱网络科技股份有限公司','北京-朝阳区','1-2万/月','08-27');  
+2018-09-25 18:57:14,428 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python工程师','北京微步在线科技有限公司','北京-海淀区','1.5-4万/月','08-27');  
+2018-09-25 18:57:14,455 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('高级Python工程师(YH0827)','北京明特量化信息技术有限公司','北京-海淀区','2.5-3.5万/月','08-27');  
+2018-09-25 18:57:14,490 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python爬虫工程师','广州小鹏汽车科技有限公司','北京-海淀区','2-3万/月','08-27');  
+2018-09-25 18:57:14,528 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python 工程师','北京彩云环太平洋科技有限公司','北京-海淀区','1.4-2.8万/月','08-27');  
+2018-09-25 18:57:14,557 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python大数据开发工程师','航天新商务信息科技有限公司','北京-海淀区','0.8-1.5万/月','08-27');  
+2018-09-25 18:57:14,590 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师-云计算','同方鼎欣科技股份有限公司','北京-海淀区','1.5-2万/月','08-25');  
+2018-09-25 18:57:14,622 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Web全栈开发（Python）','泰星达（北京）科技有限公司','北京-顺义区','0.8-1.5万/月','08-24');  
+2018-09-25 18:57:14,651 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python开发工程师(J17993)','京东方科技集团股份有限公司','北京-大兴区','1.5-2万/月','08-23');  
+2018-09-25 18:57:14,678 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python软件工程师','沈阳民航东北凯亚有限公司大连分公司','北京-东城区','0.8-1.2万/月','08-22');  
+2018-09-25 18:57:14,708 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('高级Python工程师','成安（北京）科技发展有限公司','北京-朝阳区','1.5-3万/月','08-21');  
+2018-09-25 18:57:14,739 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Java/Python软件工程师.','南京拾柴信息科技有限公司','北京','0.8-2万/月','08-20');  
+2018-09-25 18:57:14,796 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','深圳市智慧盾科技有限公司','北京-丰台区','1.3-2.5万/月','08-20');  
+2018-09-25 18:57:14,840 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python量化工程师','进化时代科技（北京）有限责任公司','北京-海淀区','1.5-2万/月','08-19');  
+2018-09-25 18:57:14,873 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('（校招）Java/Python开发工程师','北京陌陌科技有限公司','北京','1.2-2.4万/月','08-19');  
+2018-09-25 18:57:14,909 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('JAVA/python/UI设计开发实习生','北京托普云数据技术有限公司','北京-海淀区','6-8千/月','08-18');  
+2018-09-25 18:57:14,945 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','上海宣郝信息技术有限公司','北京-大兴区','1-2万/月','08-18');  
+2018-09-25 18:57:14,978 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python高级开发工程师','颉一软件科技有限公司','北京','2.5-3万/月','08-17');  
+2018-09-25 18:57:15,011 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python运维工程师（数据方向）','中科软科技股份有限公司','北京-通州区','0.7-1.4万/月','08-17');  
+2018-09-25 18:57:15,044 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('系统开发工程师（Python开发）','北京世纪互联宽带数据中心有限公司','北京','1-1.3万/月','08-15');  
+2018-09-25 18:57:15,081 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京商高科技有限公司','北京-丰台区','2-2.5万/月','08-14');  
+2018-09-25 18:57:15,124 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python研发工程师','北京知道创宇信息技术有限公司','北京-朝阳区','2-2.5万/月','08-14');  
+2018-09-25 18:57:15,186 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京钱方银通科技有限公司','北京-朝阳区','1.5-3万/月','08-13');  
+2018-09-25 18:57:15,222 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python开发工程师','北京中铁信科技有限公司','北京-海淀区','15-30万/年','08-13');  
+2018-09-25 18:57:15,273 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python高级开发工程师','好未来教育（原学而思教育)','北京-海淀区','2-4万/月','08-10');  
+2018-09-25 18:57:15,311 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python网络数据抓包分析师','北京凯达鸿科技有限公司','北京-丰台区','1-1.5万/月','08-10');  
+2018-09-25 18:57:15,344 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京量子金服网络科技有限公司','北京-朝阳区','1-1.5万/月','08-09');  
+2018-09-25 18:57:19,399 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京柯锐特信息技术有限公司','北京','1-1.5万/月','08-09');  
+2018-09-25 18:57:19,492 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','华罗庚网校','北京-海淀区','1-1.5万/月','08-03');  
+2018-09-25 18:57:19,521 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python高级开发工程师','高济医药有限公司','北京','1.5-2万/月','08-02');  
+2018-09-25 18:57:19,546 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python高级开发工程师（爬虫）','紫梧桐（北京）资产管理有限公司','北京-东城区','1.5-3万/月','08-02');  
+2018-09-25 18:57:19,575 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京众荟信息技术股份有限公司','北京-海淀区','1.3-2.5万/月','08-01');  
+2018-09-25 18:57:19,604 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python开发工程师','字节跳动','北京','2-4万/月','07-31');  
+2018-09-25 18:57:19,636 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京腾信软创科技股份有限公司','北京-海淀区','1-2万/月','07-30');  
+2018-09-25 18:57:19,665 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','北京蓝沧科技有限公司','北京-朝阳区','1-2万/月','07-30');  
+2018-09-25 18:57:19,690 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('SDK后端python工程师','在线途游（北京）科技有限公司','北京-朝阳区','1-1.8万/月','07-27');  
+2018-09-25 18:57:19,720 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('python开发主管(北京)','天津狮桥国际物流有限公司','北京-顺义区','1-1.5万/月','07-27');  
+2018-09-25 18:57:19,761 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Python开发工程师','中国人民大学网络教育学院','北京','0.6-1.6万/月','07-26');  
+2018-09-25 18:57:19,797 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('软件开发工程师(python/c++)-NDS','北京四维图新科技股份有限公司','北京-海淀区','0.8-1万/月','07-25');  
+2018-09-25 18:57:19,822 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('爬虫开发工程师','依通（北京）科技有限公司','北京-海淀区','1-2万/月','09-25');  
+2018-09-25 18:57:19,853 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('初级后端开发工程师 (MJ000036)','北京推想科技有限公司','北京-朝阳区','1-2万/月','09-25');  
+2018-09-25 18:57:19,878 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('数据分析师（软件工程）','以尧企业发展（上海）有限公司','北京-海淀区','2-3.5万/月','09-25');  
+2018-09-25 18:57:19,907 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('大数据工程师','人人公司（Renren Inc）','北京-朝阳区','1.5-2.5万/月','09-25');  
+2018-09-25 18:57:19,933 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('高级测试工程师(0302)','北京来也网络科技有限公司','北京-海淀区','1.5-3万/月','09-25');  
+2018-09-25 18:57:19,964 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('信息化资源池','北京科迈网通讯技术有限公司','北京-大兴区','1-1.5万/月','09-25');  
+2018-09-25 18:57:19,989 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Web前端开发工程师','北京璟泰天成技术有限公司','北京-丰台区','1.5-2.5万/月','09-25');  
+2018-09-25 18:57:20,022 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('高级测试工程师','国能日新科技股份有限公司','北京-海淀区','0.8-1.6万/月','09-25');  
+2018-09-25 18:57:20,052 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('C++开发工程师','北京北清视通信息技术有限公司','北京','0.6-1.5万/月','09-25');  
+2018-09-25 18:57:20,078 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('软件测试工程师.','中电科技（北京）有限公司','北京','1-1.5万/月','09-25');  
+2018-09-25 18:57:20,107 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('研发工程师','天职国际会计师事务所（特殊普通合...','北京-海淀区','15-20万/年','09-25');  
+2018-09-25 18:57:20,139 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('无人配送-自动驾驶融合定位算法','美团点评','北京-朝阳区','3-4万/月','09-25');  
+2018-09-25 18:57:20,175 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('产品研发架构师','聚时科技（上海）有限公司','北京-朝阳区','3-5万/月','09-25');  
+2018-09-25 18:57:20,212 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Web前端开发','中监安宣（北京）科技股份有限公司','北京-东城区','0.8-1.2万/月','09-25');  
+2018-09-25 18:57:20,252 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('大数据售前咨询顾问（电力行业）','北京紫光数智科技股份有限公司','北京','1-1.5万/月','09-25');  
+2018-09-25 18:57:20,285 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('linux系统工程师','北京中科铭天信息技术有限公司','北京-海淀区','1-1.5万/月','09-25');  
+2018-09-25 18:57:20,311 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('数据挖掘工程师','灵狐科技股份有限公司','北京-海淀区','1.5-2万/月','09-25');  
+2018-09-25 18:57:20,340 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('软件测试工程师（白盒、自动化）','北京永信至诚科技股份有限公司','北京','1-1.5万/月','09-25');  
+2018-09-25 18:57:20,366 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('图像算法工程师（读码或定位）(0724)','凌云光技术集团光纤仪器与器件事业部','北京-海淀区','2-3.5万/月','09-25');  
+2018-09-25 18:57:20,395 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('后端开发工程师（体育赛事方向）','永乐票务','北京-海淀区','1.8-2万/月','09-25');  
+2018-09-25 18:57:20,421 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('大数据工程师','北京金之盾信息技术有限公司','北京-海淀区','2-4万/月','09-25');  
+2018-09-25 18:57:20,451 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('DNS系统工程师','下一代互联网关键技术和评测北京市...','北京-大兴区','1-1.5万/月','09-25');  
+2018-09-25 18:57:20,476 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('游戏运维工程师','北京承启通科技有限公司','北京-石景山区','0.8-1万/月','09-25');  
+2018-09-25 18:57:20,534 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Odoo开发工程师（工作地点：亦庄）','北京百星电子系统有限公司','北京-通州区','0.8-1.5万/月','09-25');  
+2018-09-25 18:57:20,564 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('CDN运维工程师','同兴万点（北京）网络技术有限公司','北京-海淀区','1.2-1.5万/月','09-25');  
+2018-09-25 18:57:20,594 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('大数据开发工程师','上海化云科技有限公司','北京-海淀区','1-1.5万/月','09-25');  
+2018-09-25 18:57:20,624 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('区块链工程师','北京息通网络技术有限公司','北京-朝阳区','1-1.5万/月','09-25');  
+2018-09-25 18:57:20,660 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('软件测试工程师','北京捷通华声科技股份有限公司','北京','1-2万/月','09-25');  
+2018-09-25 18:57:20,698 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('软件技术总监','北京中科戎大科技股份有限公司','北京','2-5万/月','09-25');  
+2018-09-25 18:57:20,739 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('Web前端开发工程师','健康力（北京）医疗科技有限公司','北京-大兴区','0.8-1.2万/月','09-25');  
+2018-09-25 18:57:20,773 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('语音识别工程师(J180921012)','滴滴出行','北京-海淀区','2-2.5万/月','09-25');  
+2018-09-25 18:57:20,799 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('系统运维工程师','北京联盈同创信息技术有限公司','北京-西城区','0.8-1万/月','09-25');  
+2018-09-25 18:57:20,828 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('数据分析师（北京）','上海宏路数据技术股份有限公司','北京-朝阳区','0.7-1.4万/月','09-25');  
+2018-09-25 18:57:20,866 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('网络安全项目研究实习生','中国网络空间安全协会','北京-东城区','2-3千/月','09-25');  
+2018-09-25 18:57:20,896 - mainlogger - INFO - 成功执行:insert into myjob (jobPosition,jobCompany,jobAddress,jobSalary,jobPublicDate) values ('测试工程师（渗透测试）','北京安信多乐科技有限公司','北京-朝阳区','0.8-1.6万/月','09-25');  
+2018-09-25 20:16:55,366 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:55,449 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:55,558 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:55,611 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:55,659 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:55,695 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:55,731 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:55,770 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:55,808 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:55,848 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:55,896 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:55,956 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:56,029 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:56,062 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:56,094 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:56,126 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:56,196 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:56,260 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:56,323 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:56,391 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:56,453 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:56,517 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:56,630 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:56,863 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:56,896 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:56,928 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:56,962 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,005 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,042 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,076 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,109 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,148 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,211 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,291 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,329 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,513 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,561 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,607 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,654 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,707 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,747 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,778 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,811 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,843 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,877 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,935 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:57,970 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:58,020 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:58,113 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:16:58,157 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,153 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,192 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,234 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,273 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,312 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,345 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,377 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,411 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,438 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,470 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,509 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,547 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,589 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,620 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,646 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,675 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,701 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,737 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,775 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,818 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,851 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,883 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,917 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,953 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:02,986 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,011 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,041 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,052 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,083 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,114 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,146 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,177 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,214 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,229 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,260 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,291 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,323 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,370 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,401 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,448 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,495 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,541 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,588 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,635 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,666 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,698 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,745 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,791 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,838 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:03,870 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:10,778 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:10,809 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:10,840 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:10,887 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:10,918 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:10,958 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:10,996 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,027 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,056 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,087 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,118 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,165 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,196 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,212 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,259 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,290 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,321 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,337 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,384 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,415 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,446 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,478 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,524 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,556 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,587 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,634 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,665 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,728 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,759 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,790 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,821 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,868 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,899 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,952 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:11,981 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:12,013 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:12,052 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:12,083 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:12,114 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:12,146 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:12,177 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:12,223 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:12,245 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:12,276 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:12,307 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:12,338 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:12,369 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:12,416 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:12,448 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:12,479 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:20,664 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:20,742 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:20,773 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:20,804 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:20,836 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:20,882 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:20,914 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:20,961 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:20,992 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,023 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,052 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,084 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,115 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,146 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,177 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,219 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,275 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,354 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,416 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,447 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,479 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,494 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,525 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,557 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,588 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,604 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,635 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,666 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,791 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,869 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,900 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:21,947 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,050 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,145 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,166 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,213 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,228 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,260 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,291 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,322 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,353 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,385 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,431 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,463 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,494 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,525 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,556 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,588 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,619 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:22,650 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:25,421 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:25,452 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:25,484 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:25,530 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:25,562 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:25,593 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:25,648 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:25,679 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:25,726 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:25,773 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:25,820 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:25,867 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:25,913 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:25,945 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:25,979 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,026 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,081 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,112 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,144 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,175 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,206 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,238 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,269 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,300 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,331 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,362 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,394 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,441 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,487 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,519 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,550 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,581 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,612 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,644 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,675 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,784 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,816 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,847 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,894 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,925 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,961 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:26,982 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:27,013 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:27,078 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:27,109 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:27,140 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:27,156 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:27,187 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:27,222 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:17:27,245 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:21:24,019 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:24:52,365 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:27:04,335 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:34:33,402 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:38:51,307 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:40:17,710 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,184 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,262 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,306 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,325 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,371 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,403 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,434 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,465 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,512 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,543 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,574 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,606 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,646 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,677 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,708 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,739 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,779 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,811 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,842 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,873 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,936 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:34,978 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,009 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,056 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,087 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,134 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,165 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,212 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,337 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,384 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,415 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,462 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,571 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,602 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,639 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,670 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,702 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,748 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,780 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:45:35,811 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:23,637 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:23,715 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:23,825 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:23,840 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:23,887 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:23,918 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:23,985 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,016 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,047 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,094 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,125 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,204 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,244 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,291 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,323 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,369 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,401 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,432 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,479 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,510 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,541 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,588 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,635 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,682 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,713 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,744 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,776 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,807 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,854 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,885 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,916 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:24,969 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:25,000 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:25,031 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:25,063 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:25,112 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:25,146 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:25,176 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:25,207 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:50:25,223 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:08,771 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:08,865 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:08,896 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:08,943 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:08,991 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,014 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,077 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,124 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,170 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,202 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,245 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,276 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,308 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,339 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,354 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,417 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,448 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,479 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,511 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,542 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,573 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,620 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,651 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,667 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,698 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,729 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,761 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,792 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,839 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,870 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,901 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,932 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:09,971 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:10,002 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:10,034 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:10,070 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:10,088 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:10,135 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:10,168 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:10,215 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:10,231 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:10,262 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:10,293 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:10,324 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:10,371 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:10,402 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:10,434 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:10,465 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:10,512 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:10,543 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:23,480 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:23,559 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:23,590 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:23,621 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:23,668 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:23,699 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:23,730 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:23,777 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:23,809 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:23,871 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:23,902 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:23,957 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:23,978 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,009 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,041 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,087 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,119 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,166 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,181 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,244 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,290 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,322 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,353 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,384 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,415 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,431 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,462 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,541 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,587 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,634 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,665 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,712 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,744 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,790 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,822 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,869 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,900 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,947 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:24,979 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:25,026 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:25,057 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:25,088 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:25,151 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:25,198 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:25,245 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:25,292 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:25,323 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:25,370 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:25,401 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:25,432 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:33,175 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:33,276 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:33,338 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:33,370 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:33,408 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:33,455 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:33,471 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:33,512 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:33,561 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:33,670 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:33,717 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:33,826 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:33,873 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:33,920 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:33,959 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,022 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,084 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,115 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,158 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,185 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,216 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,232 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,263 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,294 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,341 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,373 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,419 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,451 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,497 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,529 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,591 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,623 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,654 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,716 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,747 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,779 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,826 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,857 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,904 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,947 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:34,986 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:35,017 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:35,050 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:35,113 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:35,144 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:35,191 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:35,222 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:35,253 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:35,285 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:35,331 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:37,490 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:37,537 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:37,568 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:37,615 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:37,646 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:37,693 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:37,724 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:37,787 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:37,849 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:37,880 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:37,927 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:37,967 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:37,993 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,060 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,100 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,131 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,178 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,193 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,225 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,256 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,287 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,334 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,365 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,412 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,443 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,485 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,515 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,546 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,593 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,625 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,671 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,703 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,750 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,781 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,828 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,859 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,906 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,945 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:38,983 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:39,014 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:39,051 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:39,083 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:39,129 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:39,246 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:39,292 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:39,324 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:39,355 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:39,386 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:39,433 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:39,464 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:44,638 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:44,716 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:44,856 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:44,927 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:44,959 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,035 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,064 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,095 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,142 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,174 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,225 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,244 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,291 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,338 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,385 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,432 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,463 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,510 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,541 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,572 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,619 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,666 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,713 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,760 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,791 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,822 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,854 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,900 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:45,987 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,033 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,084 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,118 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,172 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,203 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,234 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,281 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,312 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,359 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,406 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,453 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,500 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,531 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,578 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,639 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,658 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,705 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,736 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,783 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,814 - mainlogger - INFO - 成功执行insert语句
+2018-09-25 20:51:46,861 - mainlogger - INFO - 成功执行insert语句

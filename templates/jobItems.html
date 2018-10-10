@@ -1,0 +1,24 @@
+{% extends 'main.html' %}
+{% block main_script %}{% endblock %}
+{% block nav_main %}active{% endblock %}
+{% block result %}
+
+<table class="table">
+    <tr><th>$</th><th>职位</th><th>公司</th><th>地点</th><th>工资</th><th>发布日期</th><th>$</th></tr>
+    {% for item in index_list %}
+
+       <tr><td>$</td><td>{{ item[1] }}</td><td>{{ item[2] }}</td><td>{{ item[3] }}</td>
+           <td>{{ item[4] }}</td><td>{{ item[5] }}</td><td>$</td></tr>
+
+    {% endfor %}
+
+  </table>
+
+<nav aria-label="Page navigation" class="pull-right">
+    <ul class="pagination">
+        {{ html|safe }}
+    </ul>
+</nav>
+
+
+{% endblock %}
